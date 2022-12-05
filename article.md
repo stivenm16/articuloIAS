@@ -106,3 +106,5 @@ Por útlimo queremos compartir una pequeña tabla en donde se resumen las compar
 |              Distribución               | Tienda del dispositivo | Tienda del dispositivo |   URL    |
 |                 Soporte                 |        Limitado        |        Muy alto        | Limitado |
 |                 Costos                  |         Medio          |          Alto          |  Medio   |
+
+[![Alt text](footer.png)](https://www.linkedin.com/in/kevinhernandez0/)
