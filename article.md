@@ -16,7 +16,7 @@ Cuando este problema se hizo evidente no se contaba con muchas opciones para el 
 
 ### PWA's :
 
-El desarrollo web es una desde las áreas más grandes en el mundo de la programación, esto ha permitido que se desarrollen muchas estrategias para atacar este problema. Para el año 2015 empezó a hablarse de un término que fue tomando cada vez más fuerza, las PWA's por sus siglas en inglés progressive web apps. Las PWA's son aplicaciones que corren a través del navegador y están pensadas para que sean utilizadas principalmente desde dispositivos móviles sin consumir muchos recursos, veamos algunas de las principales ventajas que presentan las PWA's:
+El desarrollo web es una de las áreas más grandes en el mundo de la programación, esto ha permitido que se desarrollen muchas estrategias para atacar este problema. Para el año 2015 empezó a hablarse de un término que fue tomando cada vez más fuerza, las PWA's por sus siglas en inglés progressive web apps. Las PWA's son aplicaciones que corren a través del navegador y están pensadas para que sean utilizadas principalmente desde dispositivos móviles sin consumir muchos recursos, veamos algunas de las principales ventajas que presentan las PWA's:
 
 - No requiere de una instalación dado que corre en el navegador
 - Pueden ser utilizadas en cualquier sistema operativo que tenga un navegador moderno (Safari, Google, Edge ...)
